@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+div {
+  /* 表示調整用スタイル */
+  text-align: center;
+  color: red;
+  padding: 10px;
+  margin: 0 auto;
+  border: 2px solid #FF0000;
+  /* JSで取得する幅 */
+  width: 200px;
+}

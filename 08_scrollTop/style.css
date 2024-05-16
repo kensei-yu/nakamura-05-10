@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* 表示調整用スタイル */
+
+p {
+  /* 右上に固定表示 */
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+div {
+  /* 表示幅を300pxに設定 */
+  width: 300px;
+}

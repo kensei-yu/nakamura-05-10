@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+p {
+  /* 絶対位置指定 */
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
